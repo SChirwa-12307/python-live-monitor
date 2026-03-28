@@ -2,7 +2,7 @@
 =============================================================
   Live CPU & Memory Monitor Dashboard
 =============================================================
-  Project:  Project 1 of 5 (GSoC prep series)
+  Project:  GSoC prep series
   Concepts: Flask web server, Server-Sent Events (SSE),
             real-time data streaming, psutil, Python generators
   Run with: python app.py
